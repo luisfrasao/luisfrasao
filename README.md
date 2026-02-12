@@ -1,4 +1,15 @@
-## Hi there 👋
+## LUIS MIGUEL FRASAO 
+
+ALUNO DA EC1MA DO CESUPA  
+
+NA AREA DA PROGRAMACAO 
+
+
+EU GOSTARIA DE TRABALHAR COM SEGURANCA DE DADOS
+
+
+
+E ATE O FINAL DESTE SEMESTRE EU PRETENDO CRIAR UM JOGO SIMPLES
 
 <!--
 **luisfrasao/luisfrasao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
